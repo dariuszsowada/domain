@@ -1,4 +1,4 @@
-package apartments;
+package apartment;
 
 import javax.persistence.Entity;
 
