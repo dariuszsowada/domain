@@ -9,5 +9,6 @@ import lombok.Data;
 public class Convenience {
 
 	String name;
+	boolean payable;
 	
 }
