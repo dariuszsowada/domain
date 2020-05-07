@@ -3,6 +3,7 @@
   <groupId>domain</groupId>
   <artifactId>domain</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
@@ -38,4 +39,9 @@
       </plugin>
     </plugins>
   </build>
+  <modules>
+  	<module>hotel-domain</module>
+  	<module>geo-services</module>
+  	<module>hotel-service</module>
+  </modules>
 </project>
