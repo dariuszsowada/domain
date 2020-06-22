@@ -8,7 +8,7 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.2.6.RELEASE</version>
+    <version>2.3.0.RELEASE</version>
   </parent>
   
   <dependencies>
@@ -43,5 +43,7 @@
   	<module>hotel-domain</module>
   	<module>geo-services</module>
   	<module>hotel-service</module>
+  	<module>domain-annotation</module>
+  	<module>annotation-domain</module>
   </modules>
 </project>
