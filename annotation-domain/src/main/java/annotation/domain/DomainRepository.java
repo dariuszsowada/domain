@@ -1,4 +1,4 @@
-package main.java.ds.annotation.domain;
+package main.java.annotation.domain;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
