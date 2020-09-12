@@ -3,6 +3,7 @@
   <groupId>domain</groupId>
   <artifactId>domain</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
